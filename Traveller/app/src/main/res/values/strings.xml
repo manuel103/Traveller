@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Traveller</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="input_placeholder">Write a message</string>
+
+    <!-- validation Errors -->
+    <string name="err_name">The name field is required.</string>
+    <string name="err_email">The email must be a valid email address.</string>
+    <string name="err_password">The password must be at least 6 characters.</string>
+
+    <!--facebook-->
+    <string name="facebook_app_id">454392182011233</string>
+    <string name="fb_login_protocol_scheme">fb454392182011233</string>
+
+    <!-- fragment names -->
+    <string name="edit_profile_fragment">Edit Profile</string>
+    <string name="view_post_fragment">View Post</string>
+    <string name="sign_out_fragment">Sign Out</string>
+    <string name="profile_fragment">Profile</string>
+    <string name="view_profile_fragment">ViewProfile</string>
+    <string name="view_comments_fragment">View Comments</string>
+
+
+    <!-- Firebase messages -->
+    <string name="auth_failed">Failed to Authenticate</string>
+    <string name="auth_success">Authentication Success</string>
+
+    <!-- Firebase database fields -->
+    <string name="dbname_users">users</string>
+    <string name="dbname_user_account_settings">user_account_settings</string>
+    <string name="dbname_photos">photos</string>
+    <string name="dbname_user_photos">user_photos</string>
+    <string name="dbname_following">following</string>
+    <string name="dbname_followers">followers</string>
+    <string name="field_username">username</string>
+    <string name="field_email">email</string>
+    <string name="field_display_name">display_name</string>
+    <string name="field_website">website</string>
+    <string name="field_description">description</string>
+    <string name="field_phone_number">phone_number</string>
+    <string name="field_user_id">user_id</string>
+    <string name="field_likes">likes</string>
+    <string name="field_caption">caption</string>
+    <string name="field_date_created">date_created</string>
+    <string name="field_photo_id">photo_id</string>
+    <string name="field_tags">tags</string>
+    <string name="field_image_path">image_path</string>
+    <string name="field_comments">comments</string>
+
+    <!-- Intent Extras -->
+    <string name="calling_activity">calling_activity</string>
+    <string name="selected_image">selected_image</string>
+    <string name="selected_bitmap">selected_bitmap</string>
+    <string name="return_to_fragment">return_to_fragment</string>
+    <string name="intent_user">intent_user</string>
+
+    <!-- activity names -->
+    <string name="profile_activity">Profile Activity</string>
+    <string name="search_activity">Search Activity</string>
+    <string name="home_activity">Home Activity</string>
+
+    <!-- Bundle arg names -->
+    <string name="activity_number">activity_number</string>
+    <string name="bundle_photo">bundle_photo</string>
+    <string name="bundle_user_account_settings">bundle_user_account_settings</string>
+
+    <!-- photo types -->
+    <string name="new_photo">new_photo</string>
+    <string name="profile_photo">profile_photo</string>
+
+    <!-- dialog names -->
+    <string name="confirm_password_dialog">ConfirmPaswordDialog</string>
+
+    <!-- strings -->
+    <string name="gallery">GALLERY</string>
+    <string name="photo">PHOTO</string>
+    <string name="trip">TRIP</string>
+    <string name="string_open_camera">Open Camera</string>
+    <string name="string_next">Next</string>
+    <string name="string_share">Share</string>
+
+    <!-- google maps api-->
+    <string name="google_maps_api">AIzaSyAQHj6sI7R4lquZt-WeiNz52mxijKLhZfQ</string>
+    <string name="find_travellers">Find Travellers in My Location</string>
+    <string name="search_destination">Search a destination</string>
+    <string name="email_in_use">That email is already in use</string>
+    <string name="error_message">something went wrong</string>
+    <string name="intro_app_name">TRAVELLER</string>
+    <string name="password_hint">Password</string>
+    <string name="s_i_g_n_i_n">S I G N I N</string>
+    <string name="new_user">New user?</string>
+    <string name="create_account">Create Account</string>
+    <string name="write_a_description">Write a description...</string>
+    <string name="permission_request">Permission Request</string>
+    <string name="request_message">Traveller needs permission to access device location to provide required services. Please allow the permission</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="app_text_name">TRAVELLER</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Email</string>
+    <string name="username">Username</string>
+    <string name="username_hint">Username</string>
+    <string name="s_i_g_n_u_p">S I G N U P</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="login">Login</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="cancel">CANCEL</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="camera_fragment">Camera Fragment</string>
+    <string name="signout_confirm">Are you sure you want to sign out?</string>
+    <string name="signing_out">Signing Out...</string>
+    <string name="add_a_comment">Add a comment...</string>
+    <string name="this_is_a_comment">this is a comment</string>
+    <string name="user_name">user.name</string>
+    <string name="liked_by">Liked by You, Tom, Mohammed and 30 others</string>
+    <string name="tags">user.name moutains #earthporn #mountains</string>
+    <string name="days">3 DAYS AGO</string>
+    <string name="liked">Liked by You, Tom, Mohammed and 30 others</string>
+    <string name="tagss">user.name moutains #earthporn #mountains</string>
+    <string name="comments">View all 3 comments</string>
+    <string name="dayss">3 DAYS AGO</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="display_name">display name</string>
+    <string name="website">Website</string>
+    <string name="description">Description</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="comments_list">Comments</string>
+    <string name="photo_view">Photo</string>
+    <string name="search">Search...</string>
+    <string name="options">Options</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="edit_your_profile">Edit your profile</string>
+    <string name="follow">Follow</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+</resources>
